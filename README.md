@@ -5,10 +5,16 @@ To clone a events website given by a youtube channel name "errormakesclever" usi
 
 # ALGORITHM
 Step 1: Analyse the website.
+
 Step 2: List out the HTML tags used for the website.
+
 Step 3: Try getting the output by using it.
+
+
 Step 4: Learn from the mistakes.
+
 Step 5: Get the idea of optimisation of the code.
+
 Step 6: Compare the output.
 
 # HTML CODE
